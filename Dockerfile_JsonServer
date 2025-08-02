@@ -1,0 +1,14 @@
+# json-server用のDockerfile
+FROM node:latest
+
+# json-serverをグローバルにインストール
+RUN npm install -g json-server@v0.17.4
+
+# 作業ディレクトリを設定
+WORKDIR /app
+
+# ポート3000を公開
+EXPOSE 3000
+
+# json-serverを設定ファイルで起動
+ENTRYPOINT ["json-server", "--watch", "/mock/db/db.json", "--routes", "/mock/routes/routes.json", "--host", "0.0.0.0"]

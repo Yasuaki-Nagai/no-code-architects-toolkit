@@ -1,0 +1,15 @@
+{
+  "text-to-image-submit": [
+    {
+      "status": "COMPLETED",
+      "request_id": "2f58f4c1-cc15-435f-980b-35274ec1f893",
+      "response_url": "https://queue.fal.run/fal-ai/flux-pro/requests/2f58f4c1-cc15-435f-980b-35274ec1f893",
+      "status_url": "https://queue.fal.run/fal-ai/flux-pro/requests/2f58f4c1-cc15-435f-980b-35274ec1f893/status",
+      "cancel_url": "https://queue.fal.run/fal-ai/flux-pro/requests/2f58f4c1-cc15-435f-980b-35274ec1f893/cancel",
+      "logs": null,
+      "metrics": {
+        "inference_time": 5.593875169754028
+      }
+    }
+  ]
+}

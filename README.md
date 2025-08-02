@@ -132,6 +132,10 @@ Each endpoint is supported by robust payload validation and detailed API documen
    docker build -t no-code-architects-toolkit .
    ```
 
+   ```bash
+   docker build -f Dockerfile_JsonServer -t no-code-architects-toolkit-json-server .
+   ```
+
 ### General Environment Variables
 
 #### `API_KEY`

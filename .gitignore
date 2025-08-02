@@ -2,3 +2,5 @@
 .DS_Store
 .env_shell.json
 .env
+.env.local.minio.n8n
+ngrok.yml

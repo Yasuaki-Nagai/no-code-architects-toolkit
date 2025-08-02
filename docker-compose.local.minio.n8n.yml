@@ -64,6 +64,41 @@ services:
     networks:
       - nca-network
 
+  voicevox:
+    image: voicevox/voicevox_engine:cpu-latest
+    container_name: voicevox
+    ports:
+      - "50021:50021"
+    networks:
+      - nca-network
+
+  # json-server:
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile_JsonServer
+  #   ports:
+  #     - "3000:3000"
+  #   volumes:
+  #     - ./mock:/mock
+  #   restart: unless-stopped
+  #   networks:
+  #     - nca-network
+
+  ngrok:
+    image: ngrok/ngrok:latest
+    restart: unless-stopped
+    command:
+      - "start"
+      - "--all"
+      - "--config"
+      - "/etc/ngrok.yml"
+    ports:
+      - 4040:4040
+    volumes:
+      - ./ngrok.yml:/etc/ngrok.yml
+    networks:
+      - nca-network
+
 volumes:
   storage:
     driver: local
