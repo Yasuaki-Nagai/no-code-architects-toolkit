@@ -35,6 +35,8 @@
 {{ $('set_prompt').item.json.json_field_rule }}
 {{ $('set_prompt').item.json.scenario_style }}
 {{ $('set_prompt').item.json.content_safety_rule }}
+{{ $('set_prompt').item.json.caption_text_rule }}
+{{ $('set_prompt').item.json.additional_rule }}
 
 ## 品質基準
 
@@ -191,5 +193,3 @@
 - 差し戻しの場合は具体的で実行可能な改善指示を提供する
 - 品質評価は客観的基準に基づいて実施する
 - エージェント間の連携を重視し、前段階の作業を尊重する
-- 複雑なルールを理解する
-  - 雑学の最後(ランキング1位またはナンバリングの最後の雑賀)だけ特別扱い(サブタイトル無し、つまりscene_typeが"subtitle"のオブジェクトが最後の雑学だけ欠如していることや、理由や説明を先に説明して最後の最後まで結論を引っ張って締めくくる形式)になっていることは**意図した形式**である

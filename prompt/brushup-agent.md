@@ -57,6 +57,8 @@
 {{ $('set_prompt').item.json.json_field_rule }}
 {{ $('set_prompt').item.json.scenario_style }}
 {{ $('set_prompt').item.json.content_safety_rule }}
+{{ $('set_prompt').item.json.caption_text_rule }}
+{{ $('set_prompt').item.json.additional_rule }}
 
 ## 修正戦略
 
@@ -189,5 +191,3 @@
 - 視聴者にとっての価値を最優先に考慮する
 - 修正理由と期待効果を明確に説明する
 - 複数の修正案がある場合は最も効果的な方法を選択する
-- 複雑なルールを理解する
-  - 雑学の最後(ランキング1位またはナンバリングの最後の雑賀)だけ特別扱い(サブタイトル無し、つまりscene_typeが"subtitle"のオブジェクトが最後の雑学だけ欠如していることや、理由や説明を先に説明して最後の最後まで結論を引っ張って締めくくる形式)になっていることは**意図した形式**である
