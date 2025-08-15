@@ -1,0 +1,45 @@
+metadata:
+  prompt_name: "High school student who summons Bahamut"
+  base_style: "YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Many students are attending classes in a high school classroom in Japan."
+  camera_setup: "A single, Dynamic movements such as drone photography. The camera is dynamic and cinematic moving for the entire 8-second duration."
+  key_elements:
+    - "Ryo(High school student)"
+    - "Bahamut(A huge dragon that looks like something out of a Hollywood fantasy movie, with high definition and realism)"
+  sub_elements:
+    - "Other students"
+  negative_prompts: ["no people", "no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:02"
+    action: "A high school student casts a summoning spell in the classroom, and a magic circle appears."
+    audio: "Perfect lip sync. During class, a quiet noise, accompanied by an eerie magical sound, occurs at the same time as the incantation of summoning magic."
+    camera_work: "Approach in on the high school student who is summoning."
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Kodai no ryuu yo! Ware no yobikake ni kotaeyo!"
+        note: "Ryo is determined and confident."
+  - sequence: 2
+    timestamp: "00:02-00:04"
+    action: "The clear sky above the schoolyard suddenly darkened, and as thunder rained down, a gigantic magic circle appeared."
+    audio: "Perfect lip sync. Suddenly, a violent thunderclap erupts from the refreshing sounds of nature."
+    camera_work: "quickly pans out from the classroom window to show the entire schoolyard."
+    voice: null
+  - sequence: 3
+    timestamp: "00:04-00:06"
+    action: "The giant pterosaur Bahamut descends from the sky and lets out a roar."
+    audio: "Perfect lip sync. The low, powerful sound of a dragon flapping its wings, and the low, powerful roar of a dragon like in a Hollywood movie."
+    camera_work: "Looking up, it captures the moment Bahamut descends, rapidly approaching."
+    voice: null
+  - sequence: 4
+    timestamp: "00:06-00:08"
+    action: "One high school student smiling in the classroom, and many students running away from the classroom.Bahamut breathes intense flames into the classroom."
+    audio: "Perfect lip sync. The screams and footsteps of other students running away, Bahamut's roar, and the sound of intense flames."
+    camera_work: "The camera moves from the schoolyard to the classroom, showing Bahamut peering into the classroom through the window."
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Hahaha! Korega bokuno chikara sa!"
+        note: "Ryo is laughing confidently."

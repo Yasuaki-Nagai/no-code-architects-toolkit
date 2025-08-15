@@ -1,0 +1,33 @@
+metadata:
+  prompt_name: "Keiko scolding Ryo for summoning a dragon"
+  base_style: "cinematic, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "A high school classroom in Japan, slightly destroyed."
+  camera_setup: "A single, The camera is fixed, capturing the two of them."
+  key_elements:
+    - "Ryo(High school student)"
+    - "Keiko(High school student)"
+  sub_elements:
+    - "Bahamut flying away in the distance outside the window"
+  negative_prompts: ["no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:04"
+    action: "Keiko hits Ryo on the head with a paper fan and scolds him. Bahamut can be seen flying away outside the window."
+    audio: "perfect lip sync. A sharp smack of the paper fan, the sound of Keiko's angry voice."
+    camera_work: "Fixed camera. Captures Keiko hitting Ryo and scolding him."
+    voice:
+      - actor: "Keiko"
+        language: "Japanese"
+        script: "Ittai nani kangaeten no! Baka ja nai no!?"
+        note: "Keiko is very angry."
+  - sequence: 2
+    timestamp: "00:04-00:08"
+    action: "Ryo, holding his head, apologizes to Keiko."
+    audio: "perfect lip sync. The sound of Ryo's apologetic voice."
+    camera_work: "Fixed camera. Ryo is apologizing, looking up at Keiko."
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Gomen nasai! Keiko-chan ni kakkoii toko misetakatta dake nanda!"
+        note: "Ryo is sincerely apologizing."

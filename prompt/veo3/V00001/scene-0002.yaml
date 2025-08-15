@@ -1,0 +1,41 @@
+metadata:
+  prompt_name: "High school students practicing summoning in the park"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "A small park in the Japanese countryside"
+  camera_setup: "A single, Shoot from a distance of about 2 meters with a camera fixed on a stand."
+  key_elements:
+    - "Ryo(High school student)"
+  sub_elements:
+  negative_prompts: ["no people", "no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "Ryo explaining to the camera."
+    audio: "perfect lip sync. Quiet ambient sounds in the park."
+    camera_work: "Fixed single camera"
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Gakkou ni iku mae ni, chotto shoukan no renshuu wo shimasu!"
+        note: "Ryo seems to be enjoying himself."
+  - sequence: 2
+    timestamp: "00:03-00:06"
+    action: "Ryo summons a small blue wolf. When he summons it, a magic circle appears around Ryo."
+    audio: "perfect lip sync. The mysterious sound of magic."
+    camera_work: "Fixed single camera"
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Ideyo!"
+        note: "Ryo seems to be enjoying himself."
+  - sequence: 3
+    timestamp: "00:06-00:08"
+    action: "A small blue wolf runs around. Ryo watches it with a smile and talk."
+    audio: "perfect lip sync. Quiet ambient sounds in the park."
+    camera_work: "Fixed single camera"
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Syoukan ni seikou shimashita."
+        note: "Ryo seems to be enjoying himself."

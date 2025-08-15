@@ -1,0 +1,37 @@
+metadata:
+  prompt_name: "High school student arriving in the classroom"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "A high school classroom in Japan."
+  camera_setup: "A single, Take a selfie with a selfie stick."
+  key_elements:
+    - "Ryo(High school student)"
+    - "Keiko(High school student)"
+  sub_elements:
+    - "Other students"
+  negative_prompts: ["no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:04"
+    action: "Ryo enters the classroom with a selfie stick and speaks to the camera with enthusiasm."
+    audio: "perfect lip sync. The quiet hustle and bustle of the classroom before class."
+    camera_work: "Take a selfie with a selfie stick."
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Saa, kyou no butai, kyoushitsu ni tsuita zo! Minna ni boku no chikara o misetsukeru...!"
+        note: "Ryo is excited and speaking in a low voice."
+  - sequence: 2
+    timestamp: "00:04-00:08"
+    action: "Ryo finds Keiko, greets her, and Keiko greets him back and sits down."
+    audio: "perfect lip sync. The quiet hustle and bustle of the classroom before class."
+    camera_work: "The camera, held by Ryo, turns to Keiko. Keiko gives a brief glance and a small nod."
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "A, Keiko-chan, ohayoh!"
+        note: "Ryo is a little nervous."
+      - actor: "Keiko"
+        language: "Japanese"
+        script: "Ryo-kun, ohayoh."
+        note: "Keiko gives a simple greeting and seems uninterested."

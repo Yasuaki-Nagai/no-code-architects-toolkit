@@ -1,0 +1,21 @@
+metadata:
+  prompt_name: "High school students filming YouTube videos with selfies on their way to school"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "In the middle of a rural town in Japan"
+  camera_setup: "A single, Take a selfie with a selfie stick."
+  key_elements:
+    - "Ryo(High school student)"
+  sub_elements:
+  negative_prompts: ["no people", "no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:08"
+    action: "Ryo taking selfies with a selfie stick while walking."
+    audio: "Perfect lip sync. Quiet ambient sounds in the city."
+    camera_work: "Take a selfie with a selfie stick."
+    voice:
+      - actor: "Ryo"
+        language: "Japanese"
+        script: "Hatsu kakiko domo! Kyou wa boku no koto o nameteiru doukyuusei domo ni boku no shoukanjutsu no chikara wo misetsukete yarou to omoimasu! Soreto Keiko-chan ni bokuno kakkoii sugata wo misete yarunda!"
+        note: "Ryo is determined and confident."
