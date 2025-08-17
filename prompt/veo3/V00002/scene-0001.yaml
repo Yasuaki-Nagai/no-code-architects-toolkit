@@ -1,0 +1,63 @@
+metadata:
+  prompt_name: "Energetic grandmother preparing for bread eating competition"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Local community sports festival in Japan with bread eating competition setup"
+  camera_setup: "A single, handheld camera recording from close distance"
+  
+  characters:
+    - name: "Grandma Hana"
+      age: 75
+      appearance:
+        hair_style: "Short natural wavy hair, slightly tousled"
+        hair_color: "Natural silver gray"
+        clothing:
+          - "Bright red tracksuit jacket with three white stripes on shoulders"
+          - "Matching red tracksuit pants"
+          - "Comfortable walking shoes"
+        accessories: []
+        physical_features:
+          - "Bright cheerful smile with genuine joy"
+          - "Naturally wrinkled face showing character and wisdom"
+          - "Healthy and active build"
+          - "Sparkling eyes full of energy"
+        personality_traits:
+          - "Extremely energetic and enthusiastic"
+          - "Natural confidence and joy"
+          - "Playful and competitive spirit"
+    - name: "Other elderly participants"
+      description: "Various elderly women in casual sportswear"
+      appearance:
+        clothing:
+          - "Comfortable casual wear"
+          - "Sneakers or walking shoes"
+        general_look: "Less energetic than Grandma Hana"
+  
+  key_elements:
+    - "Grandma Hana (75-year-old energetic grandmother in bright red tracksuit with white stripes)"
+  sub_elements:
+    - "Other elderly participants in casual sportswear"
+    - "Bread hanging from strings"
+    - "Festival crowd in background"
+  negative_prompts: ["no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:04"
+    action: "Grandma Hana speaking confidently to the camera, with bread hanging from strings visible in the background. Other elderly participants are preparing."
+    audio: "perfect lip sync. Ambient sounds of the festival and excited chatter."
+    camera_work: "Handheld camera focused on Grandma Hana, selfie style"
+    voice:
+      - actor: "Grandma Hana"
+        language: "Japanese"
+        script: "Mina-san konnichiwa! Kyoh wa pan kui kyohsoh ni sanka shimasu! Watashi no pawaa wo misete ageru wa!"
+        note: "Grandma Hana is confident and energetic, speaking in Kansai dialect."
+  - sequence: 2
+    timestamp: "00:04-00:08"
+    action: "Grandma Hana and other participants line up at the starting line. The referee is getting ready to start the competition."
+    audio: "perfect lip sync. Crowd cheering and anticipation sounds, referee's voice preparing for start."
+    camera_work: "Wide shot showing all participants at the starting line, then focusing back on Grandma Hana"
+    voice:
+      - actor: "Grandma Hana"
+        language: "Japanese"
+        script: "Zettai ni makenai! Minna no pan, moratte iku wa yo!"
+        note: "Grandma Hana is determined and confident, with a mischievous smile."

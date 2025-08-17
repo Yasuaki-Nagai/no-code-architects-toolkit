@@ -1,0 +1,76 @@
+metadata:
+  prompt_name: "Grandmother eating all bread at superhuman speed and crossing finish line"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Local community sports festival in Japan, bread eating competition course and finish line"
+  camera_setup: "A single, handheld camera capturing the superhuman eating action and victory"
+  
+  characters:
+    - name: "Grandma Hana"
+      age: 75
+      appearance:
+        hair_style: "Short natural wavy hair, slightly tousled from high-speed movement"
+        hair_color: "Natural silver gray"
+        clothing:
+          - "Bright red tracksuit jacket with three white stripes on shoulders"
+          - "Matching red tracksuit pants"
+          - "Comfortable walking shoes"
+        accessories: []
+        physical_features:
+          - "Bright cheerful smile with genuine joy"
+          - "Naturally wrinkled face showing character and wisdom"
+          - "Healthy and active build"
+          - "Sparkling eyes full of energy"
+        personality_traits:
+          - "Extremely energetic and enthusiastic"
+          - "Natural confidence and joy"
+          - "Playful and competitive spirit"
+        action_state: "Moving at superhuman speed with multiple afterimages"
+    - name: "Other elderly participants"
+      description: "Various elderly women still at starting line in shock"
+      appearance:
+        clothing:
+          - "Comfortable casual wear"
+          - "Sneakers or walking shoes"
+        general_look: "Completely stunned and motionless"
+  
+  key_elements:
+    - "Grandma Hana (75-year-old energetic grandmother in bright red tracksuit with white stripes)"
+  sub_elements:
+    - "Multiple translucent afterimages of Grandma Hana"
+    - "Bread hanging from strings, then empty strings"
+    - "Other elderly participants frozen in shock at starting line"
+    - "Amazed crowd and officials in complete disbelief"
+    - "Finish line banner and decorations"
+    - "Sonic boom effects and speed lines"
+    - "Ghostly motion blur effects"
+  negative_prompts: ["no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:06"
+    action: "Grandma Hana approaches the bread course at incredible speed. She creates multiple afterimages of herself as she begins to consume bread from different strings simultaneously. Her movements are so fast that she appears to be in multiple places at once."
+    audio: "Whooshing wind sounds from extreme speed, initial rapid 'chomp' sounds beginning to overlap."
+    camera_work: "High-speed camera attempting to follow her movements, showing multiple translucent afterimages appearing at different bread stations"
+    voice: null
+  - sequence: 2
+    timestamp: "00:06-00:12"
+    action: "The bread consumption intensifies. Grandma Hana's afterimages multiply exponentially, creating a ghostly army of herself devouring bread from every single string. Bread pieces disappear almost instantaneously as her speed reaches incomprehensible levels."
+    audio: "Rapid successive 'chomp' sounds happening almost simultaneously, whooshing effects intensifying, amazed gasps from distant spectators."
+    camera_work: "Ultra-fast camera cuts between multiple afterimages, showing bread vanishing in real-time, chaotic but controlled movement"
+    voice: null
+  - sequence: 3
+    timestamp: "00:12-00:18"
+    action: "Within seconds, every single piece of bread has vanished. All strings are now empty and swaying in the wind created by her speed. Grandma Hana's afterimages begin to converge as she approaches the finish line."
+    audio: "Sudden relative silence as eating sounds stop, wind effects from her movement, empty strings creaking gently."
+    camera_work: "Wide shot showing all empty strings, then following the converging afterimages toward the finish line"
+    voice: null
+  - sequence: 4
+    timestamp: "00:18-00:24"
+    action: "Grandma Hana materializes at the finish line as if teleporting there, crossing the finish line with a triumphant pose. She stands victorious, slightly out of breath but beaming with joy and satisfaction."
+    audio: "perfect lip sync. Final whoosh as she materializes, crowd erupting in disbelief and amazement, applause and cheering."
+    camera_work: "Dramatic close-up of her materializing at the finish line, then triumphant shot of her victory pose"
+    voice:
+      - actor: "Grandma Hana"
+        language: "Japanese"
+        script: "Gochisousama deshita!"
+        note: "Grandma Hana speaks with deep satisfaction and triumph, slightly out of breath but very pleased and proud."

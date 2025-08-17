@@ -1,0 +1,58 @@
+metadata:
+  prompt_name: "Grandmother explosive start at bread eating competition"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Local community sports festival in Japan, bread eating competition starting line"
+  camera_setup: "A single, handheld camera capturing the explosive start sequence"
+  
+  characters:
+    - name: "Grandma Hana"
+      age: 75
+      appearance:
+        hair_style: "Short natural wavy hair, slightly tousled"
+        hair_color: "Natural silver gray"
+        clothing:
+          - "Bright red tracksuit jacket with three white stripes on shoulders"
+          - "Matching red tracksuit pants"
+          - "Comfortable walking shoes"
+        accessories: []
+        physical_features:
+          - "Bright cheerful smile with genuine joy"
+          - "Naturally wrinkled face showing character and wisdom"
+          - "Healthy and active build"
+          - "Sparkling eyes full of energy"
+        personality_traits:
+          - "Extremely energetic and enthusiastic"
+          - "Natural confidence and joy"
+          - "Playful and competitive spirit"
+        action_state: "Extremely energetic and fast-moving during competition"
+    - name: "Other elderly participants"
+      description: "Various elderly women struggling with the competition"
+      appearance:
+        clothing:
+          - "Comfortable casual wear"
+          - "Sneakers or walking shoes"
+        general_look: "Surprised and struggling, slower movements"
+  
+  key_elements:
+    - "Grandma Hana (75-year-old energetic grandmother in bright red tracksuit with white stripes)"
+  sub_elements:
+    - "Other elderly participants in crouching start position"
+    - "Bread hanging from strings in the distance"
+    - "Festival crowd watching intensely"
+    - "Starting line clearly marked"
+    - "Referee with starting pistol"
+  negative_prompts: ["no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:04"
+    action: "All participants, including Grandma Hana, are in perfect crouching start positions at the starting line. The referee raises the starting pistol. Tension builds as everyone prepares for the signal. Grandma Hana's eyes show intense focus and determination."
+    audio: "Quiet tension, crowd holding breath, referee's preparatory commands, slight rustling of clothing as participants adjust their positions."
+    camera_work: "Close-up shots of participants in crouching positions, focusing on Grandma Hana's determined expression, then wide shot of the starting line"
+    voice: null
+  - sequence: 2
+    timestamp: "00:04-00:08"
+    action: "The starting pistol fires with a loud bang. Instantly, Grandma Hana explodes forward at supersonic speed, creating a massive shockwave that completely shatters the ground beneath her starting position. She rockets forward toward the bread course while other participants are still processing the start signal."
+    audio: "Loud gunshot, immediate massive sonic boom, ground cracking and debris flying, gasps from stunned spectators and other participants."
+    camera_work: "Slow-motion capture of the pistol firing, then explosive action as Grandma Hana launches forward, showing the ground destruction and her incredible acceleration"
+    voice: null
