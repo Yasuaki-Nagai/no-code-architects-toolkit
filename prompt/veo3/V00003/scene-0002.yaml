@@ -1,0 +1,49 @@
+metadata:
+  prompt_name: "Akane encounters a grumpy racoon dog while climbing mountain"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "A mountain trail in Gunma Prefecture where Akane is climbing."
+  camera_setup: "A single camera fixed on a tripod, capturing Akane's conversation with a racoon dog."
+  key_elements:
+    - "Akane(25-year-old Japanese woman, red theme color, climbing mountain)"
+    - "Grumpy racoon dog with attitude"
+  sub_elements:
+    - "Mountain trail and rocks"
+    - "Akane looking slightly out of breath from climbing"
+    - "racoon dog with annoyed expression"
+  negative_prompts: ["no text overlays", "no distracting music", "no magical effects"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "Akane is climbing the mountain trail when she spots a racoon dog sitting on a rock. She approaches casually."
+    audio: "perfect lip sync. Mountain climbing sounds and footsteps."
+    camera_work: "Fixed camera capturing Akane climbing and spotting the racoon dog."
+    voice:
+      - actor: "Akane"
+        language: "Japanese"
+        script: "Naa, soko no Tanuki. Maizoukin doko ni aru ka shiranai?"
+        note: "Akane speaks casually and directly to the racoon dog."
+  - sequence: 2
+    timestamp: "00:03-00:06"
+    action: "The racoon dog looks annoyed and responds with a grumpy attitude, clearly irritated by the interruption."
+    audio: "perfect lip sync. racoon dog's grumpy growling and annoyed sounds."
+    camera_work: "Fixed camera capturing the racoon dog's annoyed reaction."
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Haa? Mendokusee na, ore-sama wa isogashiin da!"
+        note: "The racoon dog speaks with a rough, annoyed tone and attitude."
+  - sequence: 3
+    timestamp: "00:06-00:08"
+    action: "Akane immediately offers a deal and the racoon dog's attitude completely changes, becoming eager and interested."
+    audio: "perfect lip sync. racoon dog's tone shifting from annoyed to excited."
+    camera_work: "Fixed camera capturing both characters and the racoon dog's sudden change in attitude."
+    voice:
+      - actor: "Akane"
+        language: "Japanese"
+        script: "Maizoukin de taikin getto shitara isshoh shokuryoh ageru yo!"
+        note: "Akane offers the deal confidently."
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Yoshi sagasu ka!"
+        note: "The racoon dog responds immediately with greedy enthusiasm."

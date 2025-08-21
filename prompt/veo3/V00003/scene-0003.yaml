@@ -1,0 +1,46 @@
+metadata:
+  prompt_name: "Akane follows racoon dog through deep dark cave tunnel"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Deep inside a dark cave tunnel with rocky walls and minimal lighting."
+  camera_setup: "A single camera following Akane from behind as she walks through the cave."
+  key_elements:
+    - "Akane(25-year-old Japanese woman, red theme color, walking through cave tunnel)"
+    - "racoon dog leading the way ahead of Akane"
+  sub_elements:
+    - "Dark rocky cave walls and ceiling"
+    - "Dim natural lighting filtering through"
+    - "Uneven cave floor with rocks and dirt"
+    - "Shadow and light contrasts"
+  negative_prompts: ["no text overlays", "no distracting music", "no treasure chest", "no gold"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "racoon dog walks ahead through the dark cave tunnel, leading the way. Akane follows behind, carefully navigating the rocky cave floor."
+    audio: "Racoon dog voice only. perfect lip sync for Racoon dog. Echo sounds in the cave and footsteps on rocky ground."
+    camera_work: "Camera following from behind, capturing both characters walking through the cave."
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Nah, Saki ni meshi kure yo!"
+        note: "The racoon dog speaks with greedy confidence, demanding food first."
+  - sequence: 2
+    timestamp: "00:03-00:06"
+    action: "Akane continues following the racoon dog deeper into the cave, looking around nervously at the dark surroundings."
+    audio: "Akane voice only. perfect lip sync for Akane. Cave ambiance and Akane's nervous sounds echoing."
+    camera_work: "Camera following from behind, showing the depth and darkness of the cave."
+    voice:
+      - actor: "Akane"
+        language: "Japanese"
+        script: "Eee!? Ato de agelu kara!"
+        note: "Akane is desperately trying to negotiate, clearly unprepared."
+  - sequence: 3
+    timestamp: "00:06-00:08"
+    action: "The racoon dog suddenly stops and points ahead excitedly, having spotted something in the distance. Akane catches up and looks in the same direction."
+    audio: "Racoon dog voice only. perfect lip sync for Racoon dog. Excited racoon dog sounds and cave echo."
+    camera_work: "Camera capturing both characters from behind as they stop and look ahead."
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Dame, Saki barai! Oh!!?? Ano hako ha moshikashite!!??"
+        note: "The racoon dog suddenly becomes excited about discovering something ahead."

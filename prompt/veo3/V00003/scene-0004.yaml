@@ -1,0 +1,46 @@
+metadata:
+  prompt_name: "Yakimanjuu treasure creates chaos - racoon dog and Akane argument over snacks"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "A forest clearing with the opened treasure chest and steam rising from yakimanjuu."
+  camera_setup: "A single camera fixed on a tripod, capturing the chaotic yakimanjuu revelation."
+  key_elements:
+    - "Akane(25-year-old Japanese woman, red theme color, mixed emotions)"
+    - "racoon dog looking absolutely devastated and betrayed"
+    - "Open treasure chest filled with yakimanjuu (grilled buns) instead of gold"
+  sub_elements:
+    - "Steam rising from hot yakimanjuu"
+    - "racoon dog's dramatic disappointed expression"
+    - "Akane trying to salvage the situation"
+  negative_prompts: ["no text overlays", "no distracting music", "no magical effects"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:02"
+    action: "The treasure chest opens to reveal yakimanjuu. The racoon dog's face goes through complete shock, disbelief, and then absolute rage."
+    audio: "Chest opening, steam hissing, and racoon dog's building outrage sounds."
+    camera_work: "Fixed camera capturing the dramatic revelation and racoon dog's reaction."
+    voice: null
+  - sequence: 2
+    timestamp: "00:02-00:05"
+    action: "The racoon dog explodes in anger while Akane frantically tries to calm him down, looking genuinely worried about the deal."
+    audio: "perfect lip sync. racoon dog's angry shouting and Akane's desperate explanations."
+    camera_work: "Fixed camera capturing the chaotic argument."
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Nandayo kore! Yakimanjuu ja nee ka! Damasareta!"
+        note: "The racoon dog is absolutely furious and feels completely betrayed."
+  - sequence: 3
+    timestamp: "00:05-00:08"
+    action: "Akane tries the yakimanjuu and realizes it's actually delicious, then offers some to the still-angry racoon dog who reluctantly tries it."
+    audio: "perfect lip sync. Munching sounds and racoon dog's grudging acceptance."
+    camera_work: "Fixed camera capturing the peace-making through food."
+    voice:
+      - actor: "Akane"
+        language: "Japanese"
+        script: "Matte! Kore cho oishii yo! Tabete mite!"
+        note: "Akane tries to salvage the situation by emphasizing how good the yakimanjuu actually is."
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Maa... waruku nee ka..."
+        note: "The racoon dog grudgingly admits the yakimanjuu isn't bad, still a bit sulky."

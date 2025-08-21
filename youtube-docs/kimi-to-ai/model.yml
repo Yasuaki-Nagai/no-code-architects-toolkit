@@ -1,0 +1,32 @@
+metadata:
+  prompt_name: "Character introduction with 360 rotation and zoom-in"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Clean white background studio space"
+  camera_setup: "Single camera with smooth movement capabilities"
+  key_elements:
+    - "Woman"
+  sub_elements: []
+  negative_prompts: ["no text overlays", "no distracting music", "no background objects"]
+
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:05"
+    action: "Woman stands in the starting pose from the reference image, then slowly rotates her body 360 degrees while maintaining a natural, confident expression."
+    audio: null
+    camera_work: "Fixed camera position, capturing full body as Woman rotates slowly clockwise"
+    voice: null
+
+  - sequence: 2
+    timestamp: "00:05-00:06"
+    action: "Woman completes the rotation and faces the camera directly with a warm smile."
+    audio: null
+    camera_work: "Camera rapidly zooms in from full body to close-up, focusing on her face and shoulders"
+    voice: null
+
+  - sequence: 3
+    timestamp: "00:06-00:08"
+    action: "Woman maintains eye contact with the camera, showing her characteristic warm expression with slight airheaded look."
+    audio: null
+    camera_work: "Stable close-up shot focusing on face and shoulders, slight gentle movement for natural feel"
+    voice: null

@@ -1,0 +1,27 @@
+metadata:
+  prompt_name: "Akane declares treasure hunting mission surrounded by many forest animals"
+  base_style: "Smart Phone selfie, YouTuber Style, photorealistic"
+  aspect_ratio: "16:9"
+  location_description: "A mountain area in Gunma Prefecture, Japan. Beautiful nature with trees and a clear sky."
+  camera_setup: "A single camera fixed on a tripod, capturing Akane surrounded by many animals."
+  key_elements:
+    - "Akane(25-year-old Japanese woman, red theme color, explosive energy and wild gestures)"
+    - "Many forest animals gathered around Akane (squirrels, rabbits, birds, tanuki, deer, etc.)"
+  sub_elements:
+    - "Mountain landscape"
+    - "Backpack and treasure hunting equipment"
+    - "Dynamic movement and gestures"
+    - "Various animals sitting, standing, perching around Akane"
+    - "Animals looking curious and interested"
+  negative_prompts: ["no text overlays", "no distracting music"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:08"
+    action: "Akane stands energetically and speaks rapidly to the camera with intense enthusiasm and wild gestures. Many forest animals (squirrels, rabbits, birds, tanuki, small deer) have gathered around her in a circle, all looking curious and interested in her declaration. Some animals are sitting, others standing, and birds are perched on nearby branches."
+    audio: "perfect lip sync. Natural outdoor ambient sounds with gentle animal sounds in background."
+    camera_work: "Fixed camera capturing Akane's energetic performance surrounded by the animal audience."
+    voice:
+      - actor: "Akane"
+        language: "Japanese"
+        script: "Tokugawa no maizoukin mitsukeru made kaerema ten! Ieei! Kyoh wa Gunma-ken no yama ni nemuru maizoukin wo sagashi ni kimashita!
+        note: "Akane speaks with explosive energy and enthusiasm, almost breathless with excitement."
