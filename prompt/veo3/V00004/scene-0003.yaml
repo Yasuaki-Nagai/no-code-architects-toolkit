@@ -1,0 +1,56 @@
+metadata:
+  prompt_name: "Grandma jumps onto jet-powered skateboard, overtakes F1 cars and crosses goal"
+  base_style: "High-speed racing finale, photorealistic, 4K, intense motion blur"
+  aspect_ratio: "16:9"
+  location_description: "F1 racing circuit approaching goal gate with cheering crowds"
+  camera_setup: "High-speed tracking camera following the dramatic car jump and goal crossing"
+  key_elements:
+    - "Grandma Asako running at 300 km/h with motion blur"
+    - "Two split F1 cars on left and right sides"
+    - "Jet engine-powered skateboard appearing"
+    - "Grandma jumping onto jet skateboard"
+    - "Dramatic acceleration overtaking F1 cars"
+    - "Goal gate crossing and cheering crowd"
+  sub_elements:
+    - "Intense motion blur on running grandma"
+    - "Jet engine-powered skateboard with flames"
+    - "Dynamic jumping motion onto skateboard"
+    - "Dramatic acceleration effects"
+    - "F1 cars being left behind"
+    - "High-speed approach toward camera"
+    - "Goal gate finish line"
+    - "Excited crowd cheering"
+    - "Scenery passing by at extreme speed"
+  negative_prompts: ["calm scene", "slow motion", "no motion blur", "static camera", "small scale"]
+
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "Grandma continues running at 300 km/h with intense motion blur. The left split F1 car gradually moves closer to grandma while the right F1 car maintains distance. Grandma notices the approaching car."
+    audio: "perfect lip sync. F1 engine approaching closer, wind rushing at high speed, grandma's footsteps."
+    camera_work: "High-speed tracking shot showing grandma running and left F1 car approaching from the side"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Shibutoi yatsume!"
+        note: "Grandma notices the F1 car approaching her while running at incredible speed."
+  - sequence: 2
+    timestamp: "00:03-00:06"
+    action: "A jet engine-powered skateboard suddenly appears near grandma. She makes a powerful jump and lands perfectly on the jet-powered skateboard. The skateboard accelerates dramatically, leaving the F1 cars behind as grandma speeds toward the camera."
+    audio: "perfect lip sync. Jet engine ignition and roaring, jumping sound, landing on skateboard sound, dramatic acceleration effects."
+    camera_work: "Dynamic tracking shot capturing the jump onto skateboard and dramatic acceleration toward camera"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Ara yotto! Tobasuze!"
+        note: "Grandma successfully jumps onto the jet skateboard with excitement."
+  - sequence: 3
+    timestamp: "00:06-00:08"
+    action: "Grandma on the jet-powered skateboard accelerates far beyond 300 km/h, completely overtaking the F1 cars and speeding toward the goal gate. She crosses the finish line at incredible speed while massive crowd cheers loudly."
+    audio: "perfect lip sync. Intense jet engine sounds, crowd cheering, goal celebration sounds, high-speed wind effects."
+    camera_work: "High-speed shot following grandma overtaking F1 cars and crossing goal gate, showing her incredible speed"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Goooru! Bikutoriiiiii!"
+        note: "Grandma celebrates crossing the finish line at incredible speed on jet skateboard."

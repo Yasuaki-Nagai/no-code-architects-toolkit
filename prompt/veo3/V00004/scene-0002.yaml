@@ -1,0 +1,53 @@
+metadata:
+  prompt_name: "Grandma continues running at 300 km/h when giant T-Rex attacks, throws banana peel causing explosive crash"
+  base_style: "High-speed action movie, explosive chaos, photorealistic, 4K, intense motion blur, dramatic lighting"
+  aspect_ratio: "16:9"
+  location_description: "F1 racing circuit at 300 km/h with destructible walls and explosive effects"
+  camera_setup: "High-speed tracking camera maintaining 300 km/h pace while capturing chaos"
+  key_elements:
+    - "Grandma Asako running at 300 km/h with motion blur"
+    - "F1 car traveling at 300 km/h"
+    - "Giant Tyrannosaurus Rex breaking through wall"
+    - "Giant banana peel projectile"
+    - "High-speed crash and massive explosion"
+  sub_elements:
+    - "Intense motion blur on running grandma"
+    - "Scenery passing by at extreme speed"
+    - "Wall debris flying everywhere"
+    - "T-Rex roaring and chasing at high speed"
+    - "F1 car losing control at 300 km/h"
+    - "Fire and explosion effects"
+    - "Strong headwind effects"
+  negative_prompts: ["calm scene", "slow motion", "no motion blur", "static camera", "no destruction", "no explosions"]
+
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "Grandma continues running alongside F1 car at 300 km/h with intense motion blur when suddenly a giant T-Rex breaks through the circuit wall with debris flying everywhere, roaring as it chases both the F1 car and running grandma. Surrounding scenery passes by in an instant."
+    audio: "perfect lip sync. T-Rex roaring, wall crashing sounds, F1 engine at high speed, intense wind rushing."
+    camera_work: "High-speed tracking shot showing wall destruction and T-Rex emergence while maintaining 300 km/h pace"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Yabai!"
+        note: "After the T-Rex appeared, Grandma is shocked but still running at incredible speed with motion blur."
+  - sequence: 2
+    timestamp: "00:03-00:05"
+    action: "While still running at 300 km/h with arms and legs moving at incredible speed, Grandma pulls out a giant banana peel and throws it at the F1 car with perfect aim. Motion blur continues on her movements."
+    audio: "perfect lip sync. Whoosh sound of banana flying, continued high-speed wind effects, T-Rex roaring in background."
+    camera_work: "High-speed tracking shot focusing on grandma's throwing motion while maintaining 300 km/h pace"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Kurae!"
+        note: "Grandma maintains incredible running speed while throwing with precision."
+  - sequence: 3
+    timestamp: "00:05-00:08"
+    action: "F1 car traveling at 300 km/h hits the banana peel, spins out of control, crashes into the pursuing T-Rex, and both explode in a massive fireball. Grandma continues running through the explosion zone at incredible speed with intense motion blur."
+    audio: "perfect lip sync. Car spinning at high speed, crash sound, massive explosion, continued wind rushing effects."
+    camera_work: "High-speed tracking shot capturing the full explosion while following grandma's continued 300 km/h run"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Yatta ze!"
+        note: "Grandma celebrates while maintaining her incredible running speed through the chaos."

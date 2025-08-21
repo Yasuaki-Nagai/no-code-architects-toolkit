@@ -1,0 +1,37 @@
+metadata:
+  prompt_name: "Grandma running alongside F1 car at 300 km/h"
+  base_style: "Action camera, high-speed footage, photorealistic, 4K, intense motion blur"
+  aspect_ratio: "16:9"
+  location_description: "Professional F1 racing circuit"
+  camera_setup: "High-speed tracking camera following alongside at 300 km/h"
+  key_elements:
+    - "Grandma Asako (80-year-old energetic grandmother)"
+    - "F1 racing car traveling at 300 km/h"
+  sub_elements:
+    - "Intense motion blur on arms and legs"
+    - "Scenery passing by at extreme speed"
+    - "Strong headwind effects"
+    - "16 times per second arm and leg movement"
+  negative_prompts: ["static scene", "slow motion", "no motion blur", "clear focus"]
+
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:04"
+    action: "Grandma running alongside F1 car at 300 km/h. The surrounding scenery passes by in an instant. Grandma is running at 30 times her normal speed with intense motion blur."
+    audio: "perfect lip sync. F1 engine roaring at high speed, intense wind rushing sounds."
+    camera_work: "High-speed tracking shot maintaining pace with F1 car"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Efu wan kaa toh kyohsou shitemasu! Minasan!"
+        note: "Grandma speaking while running at incredible speed with motion blur."
+  - sequence: 2
+    timestamp: "00:04-00:08"
+    action: "Grandma continues running with arms and legs swinging 16 times per second in such intense motion that motion blur occurs. Intense headwind effects visible."
+    audio: "perfect lip sync. Continued F1 engine sounds and extreme wind effects."
+    camera_work: "High-speed tracking shot focusing on motion blur effects"
+    voice:
+      - actor: "Grandma Asako"
+        language: "Japanese"
+        script: "Watashi ga kattara iine toh channeru touroku onegaishimasu!"
+        note: "Grandma maintaining incredible speed while requesting channel subscription."
