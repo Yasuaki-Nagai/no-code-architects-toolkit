@@ -2,11 +2,10 @@ key_elements:
   - "Japanese grandmother. She is running away from the F1 car at 300km/h."
 sub_elements:
   - "F1 car. it is approaching from behind at 300km/h."
-camera_work: "A grandmother taking a selfie with her smartphone. The grandmother is shown large in the center of the frame, with the F1 car approaching from behind her."
+location: "F1 circuit tracks"
+pose: "A close-up selfie taken. Her face takes up most of the frame, with the F1 car approaching from behind her."
 styles:
-  - "photorealistic"
-  - "YouTuber Style"
+  - "hyper-realistic"
 effects:
   - "Extremely intense motion blur to emphasize speed."
   - "There was an extremely strong headwind, and the wind was messing up the grandmother face and hair."
-location_description: "F1 circcuit tracks"
