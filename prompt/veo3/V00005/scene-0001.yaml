@@ -1,0 +1,51 @@
+metadata:
+  prompt_name: "Racoon dog food delivery on tricycle - working life after treasure hunting failure"
+  base_style: "Street camera, documentary style, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Urban street with traditional Japanese houses, racoon dog riding a small delivery tricycle"
+  camera_setup: "Following camera tracking the delivery tricycle movement"
+  key_elements:
+    - "racoon dog wearing delivery uniform and backpack"
+    - "small red delivery tricycle"
+    - "urban Japanese street scene"
+    - "energetic shiba inu running on the street"
+  sub_elements:
+    - "delivery food containers in backpack"
+    - "tired but determined expression on racoon dog"
+    - "realistic movement of tricycle wheels"
+  negative_prompts: ["magical effects", "unrealistic proportions", "cartoon style"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "racoon dog pedaling delivery tricycle down a street, looking tired and grumpy while muttering complaints"
+    audio: "perfect lip sync. tricycle wheels rolling, urban ambient sounds, racoon dog's grumbling"
+    camera_work: "Following shot tracking the tricycle movement"
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Mattaku... maizoukin sagashi ni itte yakimanjuu dake ka yoh..."
+        note: "racoon dog complaining about the treasure hunting failure while working"
+  - sequence: 2
+    timestamp: "00:03-00:05"
+    action: "A shiba inu suddenly runs from the front towards racoon dog, they pass each other and exchange greetings"
+    audio: "perfect lip sync. running paws on pavement, cheerful greetings"
+    camera_work: "Dynamic shot capturing the sudden encounter and passing"
+    voice:
+      - actor: "shiba inu"
+        language: "Japanese"
+        script: "Konnichiwaaa!"
+        note: "shiba inu cheerfully greeting while running past"
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Konnichiwaaa!"
+        note: "racoon dog automatically responding to the greeting"
+  - sequence: 3
+    timestamp: "00:05-00:08"
+    action: "racoon dog continues pedaling, checking delivery address while navigating the street"
+    audio: "perfect lip sync. continued tricycle sounds and frustrated sighs"
+    camera_work: "Side tracking shot showing racoon dog's determined work attitude"
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Ima wa hataraite kasegushika nee ka..."
+        note: "racoon dog accepting the reality of having to work for money"

@@ -1,0 +1,36 @@
+metadata:
+  prompt_name: "Shocking reunion - racoon dog and Akane meet at the entrance"
+  base_style: "Dramatic camera, natural indoor lighting, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Traditional Japanese house entrance hall, wooden interior with warm lighting"
+  camera_setup: "Two-shot camera capturing both characters' surprised reactions"
+  key_elements:
+    - "racoon dog holding delivery containers in shock"
+    - "Akane (25-year-old Japanese woman, red theme color) equally surprised"
+    - "traditional Japanese interior architecture"
+  sub_elements:
+    - "both characters frozen in mutual recognition"
+    - "delivery food containers in racoon dog's hands"
+    - "warm indoor lighting creating intimate atmosphere"
+  negative_prompts: ["outdoor setting", "modern interior", "unrealistic expressions"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "Door opens revealing Akane, both racoon dog and Akane freeze in complete shock and recognition"
+    audio: "perfect lip sync. door opening sound, sudden silence with mutual gasps"
+    camera_work: "Medium two-shot capturing the moment of recognition"
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Aa?! Omae wa yakimanjuu onna?!"
+        note: "racoon dog's shocked recognition calling Akane the yakimanjuu woman"
+  - sequence: 2
+    timestamp: "00:03-00:08"
+    action: "Both characters continue staring at each other in disbelief, processing the unexpected reunion"
+    audio: "perfect lip sync. awkward silence with surprised breathing"
+    camera_work: "Close-up alternating between their shocked faces"
+    voice:
+      - actor: "Akane"
+        language: "Japanese"
+        script: "Are?! Tanuki?! Nande koko ni?! Teka, chotto futotta?"
+        note: "Akane equally shocked and confused about the coincidence"

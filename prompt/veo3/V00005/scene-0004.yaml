@@ -1,0 +1,36 @@
+metadata:
+  prompt_name: "Racoon dog complains about past food incident and negotiates with Akane"
+  base_style: "Indoor conversation, natural lighting, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Traditional Japanese house entrance area with wooden floors and warm lighting"
+  camera_setup: "Single fixed camera capturing the conversation between characters"
+  key_elements:
+    - "racoon dog looking indignant holding delivery containers"
+    - "Akane trying to mediate with gentle gestures"
+    - "food delivery containers as central focus"
+  sub_elements:
+    - "racoon dog's animated complaining gestures"
+    - "Akane's peaceful problem-solving demeanor"
+    - "traditional interior providing warm backdrop"
+  negative_prompts: ["aggressive atmosphere", "modern setting", "unrealistic proportions"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:04"
+    action: "racoon dog starts complaining about not finding real treasure last time while gesturing at delivery containers"
+    audio: "perfect lip sync. racoon dog's indignant voice, container rustling"
+    camera_work: "Medium shot on racoon dog expressing frustration"
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Kono mae wa maizoukin mitsukerarenakatta jya nee ka! Haitasu shita meshi wa ore ga kuu!"
+        note: "racoon dog complaining about not finding treasure before and claiming the delivered food"
+  - sequence: 2
+    timestamp: "00:04-00:08"
+    action: "Akane suggests sharing the food equally, making peaceful hand gestures while racoon dog considers"
+    audio: "perfect lip sync. Akane's gentle persuasive voice, racoon dog's reluctant consideration"
+    camera_work: "Wide shot showing both characters, Akane's peaceful proposal and racoon dog's gradual acceptance"
+    voice:
+      - actor: "Akane"
+        language: "Japanese"
+        script: "Maa maa, hanbunn ko shinai? Issho ni tabeyoh!"
+        note: "Akane suggesting to share the food and eat together peacefully"

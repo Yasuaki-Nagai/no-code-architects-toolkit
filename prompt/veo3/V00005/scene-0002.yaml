@@ -1,0 +1,53 @@
+metadata:
+  prompt_name: "Racoon dog arrives at traditional Japanese house for food delivery"
+  base_style: "Documentary camera, natural lighting, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Traditional Japanese house entrance with wooden door and stone pathway"
+  camera_setup: "Static camera positioned at the entrance capturing arrival"
+  key_elements:
+    - "racoon dog in delivery uniform getting off tricycle"
+    - "traditional Japanese house with wooden entrance"
+    - "delivery food containers and paperwork"
+    - "mole popping up from the ground"
+  sub_elements:
+    - "racoon dog checking delivery address"
+    - "preparing food containers from backpack"
+    - "realistic house architecture details"
+  negative_prompts: ["modern buildings", "fantasy elements", "cartoon style"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "racoon dog arrives at the house, parks tricycle and gets off, looking at the delivery address"
+    audio: "perfect lip sync. tricycle brakes, footsteps on stone pathway, paper rustling"
+    camera_work: "Wide shot capturing the arrival and house exterior"
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Koko ga haitatsu saki ka... furui ie da nah"
+        note: "racoon dog confirming the delivery address at an old house"
+  - sequence: 2
+    timestamp: "00:03-00:04"
+    action: "A mole suddenly pops up from the ground near racoon dog"
+    audio: "ground rustling, mole emerging sound"
+    camera_work: "Quick close-up shot capturing the mole's sudden appearance"
+    voice: null
+  - sequence: 3
+    timestamp: "00:04-00:06"
+    action: "The mole looks at racoon dog and agrees with his comment about the house"
+    audio: "perfect lip sync. mole's cheerful voice"
+    camera_work: "Close-up shot on mole speaking"
+    voice:
+      - actor: "mole"
+        language: "Japanese"
+        script: "Soh da neh!"
+        note: "mole cheerfully agreeing with racoon dog's observation about the old house"
+  - sequence: 4
+    timestamp: "00:06-00:08"
+    action: "racoon dog calls out and enters through the entrance door into the house"
+    audio: "perfect lip sync. footsteps entering house, door opening sounds"
+    camera_work: "Following shot tracking racoon dog entering the house"
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Gomen kudasaai!"
+        note: "racoon dog politely announcing arrival while entering the house"

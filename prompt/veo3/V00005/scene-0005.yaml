@@ -1,0 +1,38 @@
+metadata:
+  prompt_name: "Armed grandma dramatically returns home creating cliffhanger ending"
+  base_style: "Dramatic entrance, cinematic lighting, photorealistic, 4K"
+  aspect_ratio: "16:9"
+  location_description: "Traditional Japanese house interior entrance hall with open sliding doors in background, Akane and racoon dog already inside"
+  camera_setup: "Fixed camera inside the entrance hall capturing both characters in foreground and the open sliding doors in background"
+  key_elements:
+    - "Akane and racoon dog already positioned in entrance hall"
+    - "open sliding doors (fusuma) in background"
+    - "elderly Japanese grandmother with terrifying aura appearing from off-screen"
+    - "various weapons or tools creating intimidating silhouette"
+  sub_elements:
+    - "dramatic backlighting creating suspenseful atmosphere"
+    - "food containers scattered or dropped"
+    - "ominous shadow casting across the room"
+    - "terrifying aura emanating from grandma"
+  negative_prompts: ["comedic atmosphere", "bright cheerful lighting", "unrealistic weapons"]
+timeline:
+  - sequence: 1
+    timestamp: "00:00-00:03"
+    action: "racoon dog reluctantly agrees to share just as dramatic footsteps approach from behind"
+    audio: "perfect lip sync. racoon dog's grudging acceptance, ominous footsteps approaching"
+    camera_work: "Medium shot on racoon dog with sound building tension"
+    voice:
+      - actor: "racoon dog"
+        language: "Japanese"
+        script: "Maa... shigoto dashi shikata nee ka... hanbunn ko de..."
+        note: "racoon dog reluctantly agreeing to share the food"
+  - sequence: 2
+    timestamp: "00:03-00:08"
+    action: "Armed grandma appears from off-screen into the open doorway in background with terrifying aura, speaks in low menacing voice, then Akane and racoon dog turn around in shock"
+    audio: "perfect lip sync. footsteps approaching, grandma's menacing voice, gasps of shock"
+    camera_work: "Fixed shot showing grandma entering frame through background doorway, then capturing shocked reactions in foreground"
+    voice:
+      - actor: "grandma"
+        language: "Japanese"
+        script: "Tadaima...!!"
+        note: "grandma speaking in a low, menacing voice with terrifying presence"
