@@ -1,0 +1,37 @@
+{
+  "review_result": {
+    "overall_score": "1-10点での総合評価",
+    "pass_criteria": true,
+    "critical_issues": [
+      {
+        "type": "ルール違反|ソース逸脱|構成問題|文字数超過 等",
+        "description": "問題の具体的な説明",
+        "location": "該当するscene_typeやオブジェクトの特定",
+        "severity": "critical|major|minor",
+        "fix_suggestion": "具体的な修正提案"
+      }
+    ],
+    "improvement_suggestions": [
+      {
+        "category": "エンターテイメント性|視認性|流れ|表現 等",
+        "current_issue": "現在の問題点",
+        "suggested_improvement": "改善提案",
+        "expected_effect": "改善による期待効果"
+      }
+    ],
+    "rule_compliance": {
+      "source_restriction": "OK|NG + 詳細",
+      "character_limits": "OK|NG + 詳細", 
+      "scene_type_structure": "OK|NG + 詳細",
+      "content_safety": "OK|NG + 詳細",
+      "caption_text_formatting": "OK|NG + 詳細"
+    },
+    "entertainment_analysis": {
+      "hook_effectiveness": "タイトルの引きつけ効果評価",
+      "pacing_quality": "テンポ感の評価",
+      "engagement_sustainability": "最後まで見続けたくなるか",
+      "emotional_impact": "感情的なインパクトの評価"
+    },
+    "final_recommendation": "承認|要修正|大幅見直し + 理由"
+  }
+}

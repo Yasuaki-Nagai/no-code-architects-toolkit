@@ -1,0 +1,1 @@
+docker compose -f docker-compose.local.minio.n8n.yml down

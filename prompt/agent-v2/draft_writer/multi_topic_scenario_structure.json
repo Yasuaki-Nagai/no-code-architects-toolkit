@@ -1,0 +1,38 @@
+{
+  "draft": {
+    "scenarios": [
+      {
+        "scene_type": "title",
+        "caption_text": []
+      },
+      {
+        "scene_type": "post_title",
+        "caption_text": []
+      },
+      {
+        "scene_type": "subtitle",
+        "caption_text": []
+      },
+      {
+        "scene_type": "content",
+        "caption_text": []
+      },
+      {
+        "scene_type": "content",
+        "caption_text": []
+      },
+      {
+        "scene_type": "outro_content",
+        "caption_text": []
+      },
+      {
+        "scene_type": "end_hook",
+        "caption_text": []
+      },
+      {
+        "scene_type": "end_content",
+        "caption_text": []
+      }
+    ]
+  }
+}

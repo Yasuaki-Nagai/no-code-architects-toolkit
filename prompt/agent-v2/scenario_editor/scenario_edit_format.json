@@ -1,0 +1,33 @@
+{
+  "revised": {
+    "scenarios": [
+      {
+        "scene_type": "title|subtitle|content のいずれか",
+        "caption_text": [
+          "文節ごとに配列で設定",
+          "例: ラッコって",
+          "野生動物",
+          "なのに"
+        ]
+      }
+    ],
+    "revision_summary": {
+      "critical_fixes": [
+        {
+          "issue": "修正した問題点",
+          "solution": "適用した解決策",
+          "location": "修正箇所の特定"
+        }
+      ],
+      "improvements_made": [
+        {
+          "category": "改善カテゴリ",
+          "before": "修正前の状態",
+          "after": "修正後の状態",
+          "expected_effect": "期待される効果"
+        }
+      ],
+      "overall_changes": "全体的な修正方針と変更の概要"
+    }
+  }
+}

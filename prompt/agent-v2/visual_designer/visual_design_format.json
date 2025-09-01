@@ -1,0 +1,12 @@
+{
+  "scenario_with_visual_design": {
+     "scenarios": [
+      {
+        "scene_type": "元の値をそのまま引き継ぐ",
+        "speech_text": "元の値をそのまま引き継ぐ",
+        "caption_text": ["元の値をそのまま引き継ぐ"],
+        "prompt": "シーンにマッチする画像生成用プロンプトを入力"
+      }
+    ] 
+  }
+}

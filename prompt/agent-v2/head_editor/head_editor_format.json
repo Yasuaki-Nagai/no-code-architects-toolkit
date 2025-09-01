@@ -1,0 +1,29 @@
+{
+  "final_result": {
+    "status": "approved|max_attempts_reached",
+    "final_scenario": {
+      "scenarios": [
+        {
+          "scene_type": "title|subtitle|content のいずれか",
+          "caption_text": [
+            "文節ごとに配列で設定"
+          ]
+        }
+      ]
+    },
+    "quality_assurance": {
+      "review_iterations": 3,
+      "final_score": 8.5,
+      "approval_reason": "承認理由 or 最高スコア採用理由",
+      "revision_history": [
+        {
+          "iteration": 1,
+          "reviewer_score": 6.5,
+          "issues_found": ["問題点1", "問題点2"],
+          "editor_changes": ["修正内容1", "修正内容2"]
+        }
+      ]
+    },
+    "editor_notes": "編集長からの最終コメント"
+  }
+}

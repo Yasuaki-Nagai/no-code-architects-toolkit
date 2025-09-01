@@ -1,0 +1,1 @@
+docker compose -f docker-compose.local.n8n.yml up -d
