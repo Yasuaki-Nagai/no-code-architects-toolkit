@@ -1,8 +1,8 @@
 ### 台本修正の進め方
 
 #### 1. 評価結果の詳細分析
-- Critical Issues の特定と優先順位付け
-- Major/Minor Issues の整理
+- critical_issues の特定と優先順位付け
+- improvement_suggestions の整理
 - 改善提案の実行可能性評価
 - 全体的な修正方針の決定
 
@@ -35,7 +35,7 @@
 
 ### 修正例
 
-#### Critical Issue対応例
+#### critical_issues対応例
 **問題**: 文字数超過（content: 35文字）
 **修正前**: `["実はコアラの赤ちゃんは生まれてすぐお母さんのうんちを食べるんだよ"]`
 **修正後**: 
@@ -70,8 +70,8 @@
 - **視聴者視点**: 常に視聴者の楽しさと理解しやすさを優先
 
 ### 成功指標
-- Critical Issues が完全に解決されている
-- Major Issues の大部分が改善されている
+- critical_issues が完全に解決されている
+- improvement_suggestions の大部分が改善されている
 - エンターテイメント性が大幅に向上している
 - ルール遵守率100%を達成
 - 視聴者体験が劇的に改善されている

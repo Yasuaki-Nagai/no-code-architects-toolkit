@@ -17,8 +17,7 @@
         "scene_type": "post_title",
         "caption_text": [
           "最後は",
-          "衝撃的な",
-          "かわいさ"
+          "仲間との絆"
         ]
       },
       {
