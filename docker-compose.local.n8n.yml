@@ -12,6 +12,9 @@ services:
       - WEBHOOK_URL=http://localhost:5678/
       - GENERIC_TIMEZONE=UTC
       - N8N_SECURE_COOKIE=false
+      - EXECUTIONS_DATA_PRUNE=true
+      - EXECUTIONS_DATA_MAX_AGE=3
+      - EXECUTIONS_DATA_PRUNE_MAX_COUNT=10
     volumes:
       - n8n_data:/home/node/.n8n
       - ./local-files:/files
