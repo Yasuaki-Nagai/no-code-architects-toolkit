@@ -1,0 +1,1 @@
+docker cp 1841d52c95a1:/data/shared/sample.mp4 ./file.mp4

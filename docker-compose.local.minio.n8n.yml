@@ -46,7 +46,10 @@ services:
       - nca-network
 
   n8n:
-    image: docker.n8n.io/n8nio/n8n
+    # image: docker.n8n.io/n8nio/n8n
+    build:
+      context: .
+      dockerfile: Dockerfile_n8n
     restart: unless-stopped
     ports:
       - "5678:5678"
@@ -61,9 +64,11 @@ services:
       - EXECUTIONS_DATA_PRUNE=true
       - EXECUTIONS_DATA_MAX_AGE=3
       - EXECUTIONS_DATA_PRUNE_MAX_COUNT=10
+      - DB_SQLITE_VACUUM_ON_STARTUP=true
     volumes:
       - n8n_data:/home/node/.n8n
       - ./local-files:/files
+      - ./shared:/data/shared
     networks:
       - nca-network
 

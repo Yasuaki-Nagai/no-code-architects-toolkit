@@ -1,0 +1,16 @@
+FROM docker.n8n.io/n8nio/n8n:latest
+USER root
+
+# Install fontconfig and ffmpeg
+RUN apk add --no-cache ffmpeg \
+    font-liberation \
+    fontconfig \
+    fontconfig-dev
+
+# Copy fonts into the custom fonts directory
+COPY ./fonts /usr/share/fonts/custom
+
+# Rebuild the font cache so that fontconfig can see the custom fonts
+RUN fc-cache -f -v
+
+USER node

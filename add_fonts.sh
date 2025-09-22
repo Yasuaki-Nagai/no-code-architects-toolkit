@@ -41,6 +41,15 @@ CorporateLogo=Corporate-Logo-Bold-ver3.otf
 # デラゴシック
 DelaGothic=DelaGothicOne-Regular.ttf
 
+# Oradano明朝GSRR
+OradanoGSRR=OradanoGSRR.ttf
+
+# 略字超少明朝
+RyakujiChoushouMincho=rycsminStencily.ttf
+
+# あおさぎ
+Aosagi=YDWaosagi.otf
+
 # ########## Env ##########
 LocalFontPath="fonts/"
 ContainerFontPath="no-code-architects-toolkit-ncat-1:/usr/share/fonts/custom/"
@@ -59,5 +68,8 @@ docker cp ${LocalFontPath}${KokuMincho} ${ContainerFontPath}${KokuMincho}
 # docker cp ${LocalFontPath}${DokiDokiFantasia} ${ContainerFontPath}${DokiDokiFantasia}
 # docker cp ${LocalFontPath}${CorporateLogo} ${ContainerFontPath}${CorporateLogo}
 # docker cp ${LocalFontPath}${DelaGothic} ${ContainerFontPath}${DelaGothic}
+docker cp ${LocalFontPath}${OradanoGSRR} ${ContainerFontPath}${OradanoGSRR}
+docker cp ${LocalFontPath}${RyakujiChoushouMincho} ${ContainerFontPath}${RyakujiChoushouMincho}
+docker cp ${LocalFontPath}${Aosagi} ${ContainerFontPath}${Aosagi}
 docker exec no-code-architects-toolkit-ncat-1 fc-cache -f -v
 docker exec no-code-architects-toolkit-ncat-1 fc-list
