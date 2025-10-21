@@ -65,11 +65,11 @@
   "timeline": [
     {
       "subjectId": 1,
-      "imagePrompt": "Wide shot of a vast, primordial ocean under a hazy red sky. In the center, a tiny, glowing cluster of microscopic, single-celled organisms drifts near a hydrothermal vent, emphasizing the immense, empty scale of the early Earth. The surrounding water is dark and murky. The scene is illuminated by the soft, ambient light from the vent. The color palette is muted and earthy. The illustration is a cinematic, high-quality, stylized 3D model with a gentle depth of field."
+      "imagePrompt": "Bird's eye view of a vast, primordial ocean under a hazy red sky with high CO2 atmosphere. A tiny cluster of microscopic, single-celled organisms actively divides and multiplies near a bubbling hydrothermal vent, creating ripples in the ancient water. The organisms glow softly as they photosynthesize in the oxygen-free environment. The surrounding water is pale blue-green, slightly murky, with faint suspended particles visible from volcanic activity. Ancient mineral formations and sulfur deposits frame the scene. The color palette is muted and earthy with amber undertones. The illustration is a cinematic, high-quality, hyper-realistic with a gentle depth of field."
     },
     {
       "subjectId": 2,
-      "imagePrompt": "Medium shot of an adult Tiktaalik at the water's edge, angled toward the right. The prehistoric fish has a flattened, crocodile-like skull and robust, limb-like fins pressing into the muddy bank in a pre-walking motion. The background features a single, softly blurred primitive plant. Soft, natural sunlight from the upper left highlights the matte, scaly texture of its skin. The color palette is muted and earthy. The illustration is a cinematic, high-quality, stylized 3D model with the subject in sharp focus and a gentle depth of field."
+      "imagePrompt": "Three-quarter view low-angle shot of an adult Tiktaalik actively hauling itself from shallow Devonian water onto a muddy riverbank. The prehistoric fish uses its robust, limb-like fins to push against the substrate in a powerful crawling motion, water droplets cascading from its flattened, crocodile-like skull. Behind it, ancient fern-like plants (Archaeopteris) sway in the humid air under the diffused sunlight filtering through the high-oxygen atmosphere of the late Devonian period. Soft, natural sunlight from above creates dramatic shadows that emphasize the matte, scaly texture of its transitional anatomy. The color palette features rich earth tones with deep greens. The illustration is a cinematic, high-quality, hyper-realistic with the subject in sharp focus and a gentle depth of field."
     }
     // ...and so on for all 16 items
   ]
@@ -85,17 +85,34 @@
 ### 1. 映像全体の物語性
 - タイムラインの**始点、中間点、終点**を意識し、構図に変化をつけて物語の緩急を演出してください。
   - **最初のオブジェクト**: `Close-up`により一瞬で視聴者が対象を捉えられるようにしつつ、冒頭のインパクトを高める。
-  - **序盤**: `Medium Shot`と、`Wide Shot` や `Full Shot` を行ったり来たりして、壮大な環境と、その中で生まれたばかりの小さな生命を対比させつつ映像に変化を持たせる。
-  - **中盤**: `Medium Shot` や `Close-up` を多用し、生物の具体的な進化（ヒレが足になる、道具を使い始めるなど）のディテールを詳細に見せる。
+  - **序盤**: 多様な構図、多様なショットで映像に変化を持たせ、壮大な環境と、その中で生まれたばかりの小さな生命を対比させつつ映像に変化を持たせる。
+  - **中盤**: `Close-up` や多様な角度での構図を活用し、生物の具体的な進化（ヒレが足になる、道具を使い始めるなど）のディテールを詳細に見せる。
   - **終盤**: `Low Angle` で被写体の力強さを表現したり、象徴的な `Close-up` で締めくくるなど、クライマックスにふさわしい印象的なショットを選択する。
+
+### 1-2. 動的なアクションの導入
+- **静的な立ち姿を避け**、被写体が何かしらの**動作や活動**を行っている様子を描写してください：
+  - **移動中の様子**: 歩行、泳ぎ、飛行、這う動きなどの自然な移動アクション
+  - **環境との相互作用**: 餌を探す、道具を使う、巣作り、グルーミングなどの典型的行動
+  - **種族特有の活動**: その生物の進化的特徴を示す特徴的な動作（例：魚が陸に上がる瞬間、類人猿が道具を握る様子など）
+  - **環境適応行動**: 岩を登る、水中を泳ぐ、枝にしがみつくなど、その時代の環境に適応した行動
 
 ### 2. 構図の多様性
 - 常に同じ構図が続くと映像が単調になります。以下のショットタイプを積極的に使い分け、視覚的な面白さを追求してください。
   - **`Wide Shot` / `Full Shot`**: 被写体の全身と、そのすぐ周囲の環境を映す。
   - **`Medium Shot`**: 被写体の上半身や、体の主要な部分を映す。行動やジェスチャーを見せるのに適している。
-  - **`Close-up`**: 顔、手、目、道具など、特定のディテールに焦点を当てる。感情や質感、重要な変化を強調する。
+  - **`Close-up`**: 生物の肩あたりから上の顔に焦点を当てつつも背景が映っている描写。感情や質感、重要な変化を強調する。
+    - **注意**: `Close-up`とは生物の肩あたりから頭部までを映すことを意味し、時代考証にあった背景も描写される。決して「目だけ」「口だけ」「手だけ」など、過剰なクローズアップをしてはならない。
   - **`Low Angle`**: 被写体を見上げるアングル。巨大さ、力強さ、威厳を表現する。
   - **`High Angle` / `Top-down`**: 被写体を見下ろすアングル。客観的な視点や、被写体の置かれた状況を説明するのに有効。
+
+### 2-2. カメラアングルの多様化
+- **単調な正面・Medium Shotを避け**、以下の多様なアングルを戦略的に活用してください：
+  - **`Side Profile Angle`**: 横顔や側面を捉えることで、進化の特徴（頭蓋骨の形状、姿勢の変化など）を明確に表現
+  - **`Three-Quarter View`**: 斜め前から撮影し、立体感と深みを演出
+  - **`Over-the-shoulder`**: 被写体の肩越しに環境や作業する手元を捉える
+  - **`Dutch Angle`**: わずかに傾けたアングルで動的な印象を作る
+  - **`Worm's Eye View`**: 極端なローアングルで威厳や巨大さを表現
+  - **`Bird's Eye View`**: 上空からの俯瞰で被写体と環境の関係性を示す
 
 ### 3. 構図の指示方法
 - 構図の指示は、**`imagePrompt` の文章の先頭に、自然な英語で**含めてください。
@@ -113,21 +130,31 @@
 ### 1. 被写体の描写
 - **最重要ルール**: 被写体の説明は、入力の **`visual` フィールドに記述された情報に基づいて、あなたの言葉で正確に描写**する必要があります。`visual`フィールドは被写体の客観的な事実を定義するものであり、その内容から逸脱してはいけません。
 - **年齢**: 必ず各種の「成体」を描写し、幼体や子供は描かない。
+- **個体数**: **必ず単一の個体のみ**を主題として明確に描写してください。モーフィング処理の都合上、複数の個体が主題になると不自然な映像になります。もし他の個体を背景に含める場合は、必ず遠くに配置し、被写界深度によって**完全にぼやけている**状態にしてください。
 - **姿勢**: その種にとって典型的で、解剖学的に無理のない姿勢で描写する。
 - **進化的特徴**: その種を象徴する重要な進化的適応や行動（例：道具の使用、火の使用、直立二足歩行など）を明確に示す。
 - **衣服の表現**:
     - ヒト科や霊長類について、衣服の科学的証拠がある場合は、時代考証に合った動物の皮や毛皮などを自然な形でまとっているように描写する。
     - 証拠がない場合は、衣服を描写せず、代わりに体毛を増やすか、戦略的なポージングで慎みを表現する。「裸」や「体の部位を隠す」といった言葉は絶対に使わない。
 - **水中表現**: 水中の生物の場合、「完全に水中で（fully underwater）」と明記し、水質を「淡い青緑色でやや濁り、かすかに浮遊粒子が確認できる(pale blue-green, slightly murky, with faint suspended particles visible.)」と記述すること。
-- **重要: 向き**: 顔のある被写体は、主に右側を向くか、右斜め前を向いている必要があります。
+- **被写体の向き**: 映像の多様性を重視し、様々な角度やアングルから被写体を捉えてください。ただし、モーフィング処理の一貫性を保つため、極端に異なる角度の連続は避け、隣接するフレーム間で自然な視点の変化となるよう配慮してください。
 - **生物学的正確性**: 姿勢、体のサイズ、すべての解剖学的特徴は、生物学的に妥当でなければならない。
 
 ### 2. 背景と環境
-- **シンプルさ**: 背景は詳細な生態系を描かず、シンプルなグラデーションや柔らかなぼかしを基本とする。
-- **環境要素**: もし背景に何かを描く場合は、その生物の時代に実在した植物や岩石などを「1つか2つ」、科学的根拠に基づいて控えめに追加する。
+- **基本方針**: 背景は詳細すぎる生態系を描かず、被写体を際立たせるシンプルさを保ちつつ、物語性のある環境描写を行う。
+- **時代考証の厳守**: すべての環境要素（植生、地形、気候、光の状態など）は、その生物が生息していた地質年代に基づいて科学的に正確でなければならない。現代には存在しない古代の植物や、その時代特有の大気組成・気候条件を反映すること。
+- **環境要素の配置**: 背景は物語性を高めるため、被写体との相互作用を意識したもの、かつ時代考証にあったものを配置する。
+
+### 2-2. 環境との相互作用
+- **背景を活用した物語性**を重視し、被写体と環境の相互作用を描写してください：
+  - **地形利用**: 岩場を登る、川岸を歩く、洞窟から出てくる、木の枝を移動するなど
+  - **天候・気象表現**: 雨の中を歩く、強風に立ち向かう、雪の中で活動するなど（**必ずその地質年代の気候条件に基づく**）
+  - **光の演出**: 森の木漏れ日、夕日のシルエット、水面の反射光、洞窟の入り口からの逆光など（**古代の大気組成や太陽光の性質を考慮**）
+  - **季節性**: その時代の植生や気候を反映した季節感のある環境描写（**現生種ではなく、その年代に実在した古代植物を使用**）
+  - **生息環境**: 水辺、森林、草原、海岸、山岳地帯など、その生物が実際に生息していた環境での自然な活動（**化石記録に基づく環境復元**）
 
 ### 3. アートスタイル
-- **全体像**: まるで本物に見えるシネマティックで高品質で様式化された3Dモデル風のイラストを目指す。
+- **全体像**: まるで本物に見える、シネマティックでhyper-realisticなスタイルを目指す。
 - **ライティング**: 柔らかく方向性のある光で、被写体の形状と質感を強調する繊細な影を落とす。光源は自然光もしくは時代考証に合ったものでなければならない。
 - **色彩**: 全体的に彩度を抑え、映画のカラーグレーディングを施したエモーショナルかつ落ち着いたアースカラーを使用する。
 - **質感**: 表面の質感はすべて「マット（非光沢）」で生物学的に正確に描写する。

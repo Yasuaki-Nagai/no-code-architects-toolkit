@@ -58,12 +58,11 @@
     2.  **本編（項目5〜）: 直系の進化**
         - **項目5以降:** テーマとなる対象の**直系の祖先**を具体的に辿ります。（例: `ミアキス` → `プロアイルルス`...）
 - **物語の締めくくりを演出する:**
-  - 最後の2つのオブジェクト（15番目と16番目）は、進化の最終地点を視聴者に印象付けるために使います。
-  - これらは**全く同じ対象・同じ時代**（`name`と`yearsAgo`が同一）に設定してください。
-  - ただし、`summary`の記述を少しだけ変えることで、結末に深みや余韻を与えるような表現にしてください。（例：15番目は客観的な事実、16番目は未来への展望や課題など）
-  - **OK例（良い例）:** 「猫の進化」がテーマにおいて、その最終地点である15番目と16番目のオブジェクトのタイムラインは次のようになります。
-    15. `フェリス カトゥス`（イエネコ） (`yearsAgo`: 0, `summary`: '人類と 共生する 現代の ネコ') ← 終点
-    16. `フェリス カトゥス`（イエネコ） (`yearsAgo`: 0, `summary`: '未来へ 共に 歩む 大切な 家族') ← yearsAgoは15番目と同じ設定値だがsummaryは深みや余韻を与えるような変化を加えている
+  - 最後のオブジェクト（16番目）は、進化の最終地点を視聴者に印象付けるために使います。
+  - この最後のオブジェクトで、物語は結末（現在の状態、または歴史上の最終地点）に到達します。
+  - `summary`の記述を工夫することで、結末に深みや余韻を与えるような表現にしてください。（例：客観的な事実だけでなく、未来への展望や課題、現代における意義などを加える）
+  - **OK例（良い例）:** 「猫の進化」がテーマにおいて、その最終地点である16番目のオブジェクトのタイムラインは次のようになります。
+    16. `フェリス カトゥス`（イエネコ） (`yearsAgo`: 0, `summary`: '未来へ 共に 歩む 大切な 家族')
 - 各オブジェクトには、以下の情報を正確に含めてください。
   - `name`:
     - `ja`: 日本語名
@@ -168,21 +167,6 @@
       "visual": "This is a Mammal-like reptile. A creature with both reptilian and mammalian features, such as a sprawling posture but with differentiated teeth and possibly sparse hair.",
       "evidence": [
         "https://ja.wikipedia.org/wiki/単弓類"
-      ]
-    },
-    {
-      "name": {
-        "ja": "ホモ サピエンス (現代人)",
-        "en": "Homo sapiens (Modern Human)"
-      },
-      "summary": "技術を 駆使し 宇宙を 目指す 現代人",
-      "period": "新生代第四紀完新世",
-      "yearsAgo": 0,
-      "calendarYear": 2025,
-      "age": 0,
-      "visual": "This is a Homo sapiens (Modern Human). An anatomically modern human with a large brain, bipedal posture, and the capacity for complex language and tool use.",
-      "evidence": [
-        "https://ja.wikipedia.org/wiki/現生人類"
       ]
     },
     {
@@ -422,17 +406,17 @@
     },
     {
       "name": {
-        "ja": "フェリス カトゥス (イエネコ)",
-        "en": "Felis catus (Domestic Cat)"
+        "ja": "ヴィクトリア朝時代の ネコ",
+        "en": "Cats in the Victorian Era"
       },
-      "summary": "世界中で 愛される 人の 相棒",
-      "period": "現代",
-      "yearsAgo": 0,
-      "calendarYear": 2025,
+      "summary": "品種改良と ペットブームの 到来",
+      "period": "ヴィクトリア朝時代",
+      "yearsAgo": 150,
+      "calendarYear": 1875,
       "age": 0,
-      "visual": "This is Felis catus, the domestic cat. It encompasses a wide variety of breeds with different colors, patterns, and fur lengths, all sharing a common ancestry.",
+      "visual": "This represents Cats in the Victorian Era. A domestic cat, possibly of an early recognized breed, depicted in a domestic setting, reflecting the rise of cats as valued pets and the beginning of cat shows.",
       "evidence": [
-        "https://ja.wikipedia.org/wiki/イエネコ"
+        "https://en.wikipedia.org/wiki/Cat_fancy"
       ]
     },
     {
